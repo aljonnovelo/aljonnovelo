@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving parsers for domain-specific languages, such as LaTeX.  <br>👯 I’m looking to collaborate with developers interested in designing parsers.  <br>🤝 I’m seeking assistance with various projects.  <br>🌱 I’m currently learning new technologies and techniques.  <br>💬 Feel free to ask me about my work or related topics.  <br>⚡ Fun fact: I am a sports enthusiast.
+🔭 I’m currently working on improving parsers for domain-specific languages, such as LaTeX.  <br>🌱 I’m currently learning new technologies and techniques.  <br>💬 Feel free to ask me about my work or related topics.  <br>⚡ Fun fact: I am a sports enthusiast.
 
 
 ## 🌐 Socials:
